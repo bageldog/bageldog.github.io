@@ -3,5 +3,5 @@
 
 
 
- [link test!](bageldog.github.io\projects.md)
+ [link test!](projects.md)
 
