@@ -2,4 +2,4 @@
 # I am not very good at programming
 
 
-https://bageldog.github.io/test
+ [click here to visit the projects area!](bageldog.github.io\projects.md\)
