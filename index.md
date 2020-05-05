@@ -1,7 +1,7 @@
 ## Welcome to the website!
-# I am not very good at programming
+# I don't know what im doing
 
 
 
- [click here to visit the projects area!](bageldog.github.io\projects.md)
+ [link test!](bageldog.github.io\projects.md)
 
