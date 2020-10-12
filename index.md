@@ -1,5 +1,5 @@
 ## Welcome to my website!
-# Here you can find some of the projects I have worked on
+# Here you can find some of my personal projects I have made:
 
 
 
