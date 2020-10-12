@@ -5,3 +5,4 @@ Here is a video of it in action!
 [![VU Meter Test](http://img.youtube.com/vi/IXU6dty2NVc/0.jpg)](https://www.youtube.com/watch?v=IXU6dty2NVc&feature=youtu.be "VU Meter Test")
 
 
+<img align="left" src="https://user-images.githubusercontent.com/63659684/95758888-e7e86580-0ca0-11eb-8cf6-c1f58328c82c.png">
