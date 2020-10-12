@@ -6,7 +6,9 @@
 The first 4 variable resistors adjust sensitivity and gain for the left and right channels, and the last variable resistor adjusts voltage going to the tubes which changes their brightness. I added a toggle switch, headphone jack and DC barrel jack for ease of use and to make it look a bit better. I housed it in a die cast project box which I drilled holes in for the inputs and for the tubes, which I kept in place using some rubber gromits.
 Here is a video of it in action!
   </section>
-[![VU Meter Test](http://img.youtube.com/vi/IXU6dty2NVc/0.jpg)](https://www.youtube.com/watch?v=IXU6dty2NVc&feature=youtu.be "VU Meter Test")
+ <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=IXU6dty2NVc&feature=youtu.be">
+</iframe> 
 
 
 
