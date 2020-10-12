@@ -1,5 +1,7 @@
 
 #Welcome to the Projects Repository!
 
- [test link 2!](projectpage.md)
+ [Nixie Tube VU meter](vumeter.md)
+ [The Puck](puck.md)
+ [Interactive Model](gnw.md)
 
