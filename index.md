@@ -1,7 +1,7 @@
-## Welcome to the website!
-# I don't know what im doing
+## Welcome to my website!
+# Here you can find some of the projects I have worked on
 
 
 
- [link test!](projects.md)
+ [Projects](projects.md)
 
