@@ -1,1 +1,1 @@
-
+Recently, I had an idea to make interactive 3d printed figures, by making a figure with a hollow base in which I could have electronics to light up lights or play sounds with the push of a button. I printed a Mr Game and Watch figure from thingiverse and designed the base, a simple circle with removable bottom and hole for a pushbutton. I also reused my low poly exporting technique that I learned from my Puck project. 
