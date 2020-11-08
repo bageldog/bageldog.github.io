@@ -8,4 +8,6 @@ Click on the image below for a video of it in action!
   
 [![VU Meter Test](http://img.youtube.com/vi/IXU6dty2NVc/0.jpg)](https://www.youtube.com/watch?v=IXU6dty2NVc&feature=youtu.be "VU Meter Test")
 
+![vu1](https://user-images.githubusercontent.com/63659684/98470129-9cf83a00-21db-11eb-9b5d-487c35e966fa.jpg)
 
+![vu2](https://user-images.githubusercontent.com/63659684/98470132-a7b2cf00-21db-11eb-8a0c-8507d98ac629.jpg)
