@@ -348,7 +348,7 @@ After I did this, I installed the particle CLI so that I could make these calls 
 echo "Lights toggled."
 particle function call lights Off
 ```
-And here they are working! Click to see!
+And here they are working, being toggled from my PC! Click to see!
 
 [![](http://img.youtube.com/vi/peOa4qs7SJ4/0.jpg)](http://www.youtube.com/watch?v=peOa4qs7SJ4 "ledtest")
 
