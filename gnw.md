@@ -61,3 +61,4 @@ ISR (TIMER0_COMPA_vect) {
 ```
 It uses a USB port for power, as I didn't have any rechargable battery packs small enough to fit in the base.
 ![gnw](https://media.discordapp.net/attachments/712637579824070746/775030144636551198/image0.jpg)
+The circuit is simple, consisting of only a pushbutton and a speaker wired up to the ATtiny85's digital IO pins. The rest is handled in the code.
