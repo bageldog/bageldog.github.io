@@ -1,7 +1,7 @@
 Last year, for Christmas, I recieved a reel of LED strips. I decided that I was going to put them to use as ambient lighting in my room.
 My plan was not just to make them regular lights with a switch, but to use an IoT device to control them, create custom animations, and be able to toggle them from my PC.
 After some thought, I decided to use a Particle Photon for this task, as it was well suited and also was what I had lying around already.
-I set up my photon, and with a bit of help got this bit of code running. 
+I set up my photon, and with a bit of help wrote the following code:
 ```
 /**
  * This is a minimal example, see extra-examples.cpp for a version
